@@ -18,20 +18,35 @@ Proje, iki farklı dil modeli (LLM) kullanılarak geliştirilmiştir:
 
 ## 📁 Proje Yapısı
 ├── app/
+
 │ └── streamlit_app.py # Uygulamanın arayüzü
+
 ├── data/
+
 │ └── chatbot_dataset_library.csv # Intent ve örnek veri seti
+
 ├── demo/
+
 │ └── flan-t5_chat.png
+
 │ └── huggingface_chat.png
+
 │ └── interface.png
+
 ├── evaluation/
+
 │ └── evaluation.py # Modellerin karşılaştırılması
+
 ├── models/
+
 │ ├── __init__.py
+
 │ ├── huggingface_model.py # TF-IDF + BERT tabanlı model
+
 │ └── falcon_model.py # FLAN-T5 jeneratif model
+
 ├── requirements.py
+
 └── README.md
 
 
