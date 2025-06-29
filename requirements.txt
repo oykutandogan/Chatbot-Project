@@ -1,0 +1,18 @@
+# LLM ve NLP
+transformers>=4.40.0
+torch>=2.0.0
+sentencepiece  # Flan-T5 modeli için gerekli
+
+# Veri işleme
+pandas>=1.5.0
+scikit-learn>=1.2.0
+numpy>=1.23.0
+
+# Arayüz
+streamlit>=1.25.0
+
+# Yardımcı kütüphaneler
+python-dotenv>=1.0.0
+
+# (Opsiyonel) HuggingFace erişimi için
+huggingface_hub>=0.20.0

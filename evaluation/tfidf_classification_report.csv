@@ -1,0 +1,12 @@
+,precision,recall,f1-score,support
+book_search,1.0,1.0,1.0,31.0
+borrow_policy,1.0,1.0,1.0,32.0
+digital_access,1.0,1.0,1.0,21.0
+events,1.0,1.0,1.0,27.0
+late_fee,1.0,1.0,1.0,23.0
+membership,1.0,1.0,1.0,24.0
+opening_hours,1.0,1.0,1.0,23.0
+study_room,1.0,1.0,1.0,19.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,200.0
+weighted avg,1.0,1.0,1.0,200.0

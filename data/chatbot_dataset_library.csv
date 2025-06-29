@@ -1,0 +1,1001 @@
+Intent,Example,Response
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+membership,Üye olmak ücretli mi?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+opening_hours,Hangi saatlerde hizmet veriyorsunuz?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+study_room,Çalışma odası rezerve edebilir miyim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+borrow_policy,Kitapları kaç gün tutabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+digital_access,Online kaynaklara erişim var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+opening_hours,Hangi saatlerde hizmet veriyorsunuz?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+events,Bu ay etkinlik var mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+book_search,Elinizde roman var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+membership,Kimler üye olabilir?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+opening_hours,Kütüphane saat kaçta açılıyor?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+membership,Kütüphaneye nasıl üye olurum?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+membership,Üye olmak ücretli mi?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+digital_access,Online kaynaklara erişim var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+events,Yazar söyleşisi olacak mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+opening_hours,Kütüphane saat kaçta açılıyor?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+digital_access,Online kaynaklara erişim var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+book_search,Elinizde roman var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+borrow_policy,Kitapları kaç gün tutabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+opening_hours,Hangi saatlerde hizmet veriyorsunuz?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+events,Bu ay etkinlik var mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+membership,Üye olmak ücretli mi?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+membership,Kütüphaneye nasıl üye olurum?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+study_room,Çalışma odası rezerve edebilir miyim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+membership,Üye olmak ücretli mi?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Kütüphane saat kaçta açılıyor?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+membership,Kütüphaneye nasıl üye olurum?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+events,Bu ay etkinlik var mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+book_search,Elinizde roman var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+study_room,Çalışma odası rezerve edebilir miyim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+membership,Kütüphaneye nasıl üye olurum?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+digital_access,Online kaynaklara erişim var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+study_room,Çalışma odası rezerve edebilir miyim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+events,Yazar söyleşisi olacak mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+events,Bu ay etkinlik var mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+events,Yazar söyleşisi olacak mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+digital_access,Online kaynaklara erişim var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+opening_hours,Hangi saatlerde hizmet veriyorsunuz?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+book_search,Elinizde roman var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+opening_hours,Kütüphane saat kaçta açılıyor?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+borrow_policy,Kitapları kaç gün tutabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+borrow_policy,Kitapları kaç gün tutabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+opening_hours,Kütüphane saat kaçta açılıyor?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+opening_hours,Kütüphane saat kaçta açılıyor?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+digital_access,Online kaynaklara erişim var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+borrow_policy,Kitapları kaç gün tutabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+opening_hours,Kütüphane saat kaçta açılıyor?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+membership,Üye olmak ücretli mi?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+events,Yazar söyleşisi olacak mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+opening_hours,Kütüphane saat kaçta açılıyor?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+book_search,Elinizde roman var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+membership,Üye olmak ücretli mi?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+events,Yazar söyleşisi olacak mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Hangi saatlerde hizmet veriyorsunuz?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+book_search,Elinizde roman var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+digital_access,Online kaynaklara erişim var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+study_room,Çalışma odası rezerve edebilir miyim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+membership,Kimler üye olabilir?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+membership,Üye olmak ücretli mi?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+membership,Kütüphaneye nasıl üye olurum?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+study_room,Çalışma odası rezerve edebilir miyim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+membership,Kütüphaneye nasıl üye olurum?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+opening_hours,Hangi saatlerde hizmet veriyorsunuz?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+digital_access,Online kaynaklara erişim var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+events,Bu ay etkinlik var mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+digital_access,Online kaynaklara erişim var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+digital_access,Online kaynaklara erişim var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+borrow_policy,Kitapları kaç gün tutabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Yazar söyleşisi olacak mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+membership,Üye olmak ücretli mi?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+opening_hours,Kütüphane saat kaçta açılıyor?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+membership,Kimler üye olabilir?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+events,Bu ay etkinlik var mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+digital_access,Online kaynaklara erişim var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+opening_hours,Kütüphane saat kaçta açılıyor?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+study_room,Çalışma odası rezerve edebilir miyim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+membership,Kimler üye olabilir?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+events,Yazar söyleşisi olacak mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+membership,Kütüphaneye nasıl üye olurum?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+study_room,Çalışma odası rezerve edebilir miyim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+events,Bu ay etkinlik var mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+borrow_policy,Kitapları kaç gün tutabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+book_search,Elinizde roman var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+membership,Kütüphaneye nasıl üye olurum?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+digital_access,Online kaynaklara erişim var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+membership,Kütüphaneye nasıl üye olurum?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+membership,Üye olmak ücretli mi?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+events,Bu ay etkinlik var mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+membership,Üye olmak ücretli mi?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+study_room,Çalışma odası rezerve edebilir miyim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+study_room,Çalışma odası rezerve edebilir miyim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Kütüphane saat kaçta açılıyor?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+study_room,Çalışma odası rezerve edebilir miyim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+membership,Kütüphaneye nasıl üye olurum?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+opening_hours,Hangi saatlerde hizmet veriyorsunuz?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+digital_access,Online kaynaklara erişim var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+membership,Üye olmak ücretli mi?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+membership,Kimler üye olabilir?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+digital_access,Online kaynaklara erişim var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+events,Bu ay etkinlik var mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Kütüphane saat kaçta açılıyor?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+opening_hours,Hangi saatlerde hizmet veriyorsunuz?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+membership,Kimler üye olabilir?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+study_room,Çalışma odası rezerve edebilir miyim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+opening_hours,Kütüphane saat kaçta açılıyor?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+study_room,Çalışma odası rezerve edebilir miyim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+book_search,Elinizde roman var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+book_search,Elinizde roman var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+membership,Üye olmak ücretli mi?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+membership,Üye olmak ücretli mi?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+borrow_policy,Kitapları kaç gün tutabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+borrow_policy,Kitapları kaç gün tutabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+book_search,Elinizde roman var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+membership,Kimler üye olabilir?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+events,Yazar söyleşisi olacak mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+digital_access,Online kaynaklara erişim var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+borrow_policy,Kitapları kaç gün tutabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+membership,Üye olmak ücretli mi?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+events,Yazar söyleşisi olacak mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Hangi saatlerde hizmet veriyorsunuz?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+borrow_policy,Kitapları kaç gün tutabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+opening_hours,Hangi saatlerde hizmet veriyorsunuz?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+opening_hours,Kütüphane saat kaçta açılıyor?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+membership,Kütüphaneye nasıl üye olurum?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+study_room,Çalışma odası rezerve edebilir miyim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+borrow_policy,Kitapları kaç gün tutabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+borrow_policy,Kitapları kaç gün tutabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+membership,Kütüphaneye nasıl üye olurum?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+borrow_policy,Kitapları kaç gün tutabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+events,Bu ay etkinlik var mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Hangi saatlerde hizmet veriyorsunuz?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+membership,Kütüphaneye nasıl üye olurum?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+membership,Kimler üye olabilir?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+membership,Kimler üye olabilir?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+events,Bu ay etkinlik var mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+membership,Üye olmak ücretli mi?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Yazar söyleşisi olacak mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+events,Yazar söyleşisi olacak mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+study_room,Çalışma odası rezerve edebilir miyim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+events,Bu ay etkinlik var mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+opening_hours,Kütüphane saat kaçta açılıyor?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+opening_hours,Hangi saatlerde hizmet veriyorsunuz?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+borrow_policy,Kitapları kaç gün tutabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+opening_hours,Kütüphane saat kaçta açılıyor?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+membership,Üye olmak ücretli mi?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+events,Bu ay etkinlik var mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+book_search,Elinizde roman var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+membership,Kimler üye olabilir?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+study_room,Çalışma odası rezerve edebilir miyim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+book_search,Elinizde roman var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+membership,Kimler üye olabilir?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+study_room,Çalışma odası rezerve edebilir miyim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+membership,Kimler üye olabilir?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+book_search,Elinizde roman var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+digital_access,Online kaynaklara erişim var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+membership,Kimler üye olabilir?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+membership,Kimler üye olabilir?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+events,Yazar söyleşisi olacak mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+events,Bu ay etkinlik var mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+study_room,Çalışma odası rezerve edebilir miyim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+book_search,Elinizde roman var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+opening_hours,Hangi saatlerde hizmet veriyorsunuz?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+membership,Kütüphaneye nasıl üye olurum?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+membership,Üye olmak ücretli mi?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+digital_access,Online kaynaklara erişim var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+membership,Kimler üye olabilir?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+membership,Kimler üye olabilir?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+membership,Kimler üye olabilir?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+events,Yazar söyleşisi olacak mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+book_search,Elinizde roman var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+digital_access,Online kaynaklara erişim var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+opening_hours,Hangi saatlerde hizmet veriyorsunuz?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+digital_access,Dijital kütüphane var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Bu ay etkinlik var mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+opening_hours,Hangi saatlerde hizmet veriyorsunuz?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+membership,Kütüphaneye nasıl üye olurum?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+opening_hours,Hangi saatlerde hizmet veriyorsunuz?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+membership,Üye olmak ücretli mi?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+membership,Üye olmak ücretli mi?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+events,Bu ay etkinlik var mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+membership,Kimler üye olabilir?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+digital_access,Online kaynaklara erişim var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+opening_hours,Kütüphane saat kaçta açılıyor?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+opening_hours,Hangi saatlerde hizmet veriyorsunuz?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+membership,Kütüphaneye nasıl üye olurum?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+events,Bu ay etkinlik var mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+study_room,Çalışma odası rezerve edebilir miyim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+digital_access,Online kaynaklara erişim var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+opening_hours,Hangi saatlerde hizmet veriyorsunuz?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+borrow_policy,Kitapları kaç gün tutabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+book_search,Elinizde roman var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Yazar söyleşisi olacak mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+membership,Kütüphaneye nasıl üye olurum?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+membership,Kütüphaneye nasıl üye olurum?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Yazar söyleşisi olacak mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+borrow_policy,Kitapları kaç gün tutabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+membership,Kimler üye olabilir?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+membership,Üye olmak ücretli mi?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+membership,Kütüphaneye nasıl üye olurum?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+borrow_policy,Kitapları kaç gün tutabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Yazar söyleşisi olacak mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+book_search,Elinizde roman var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+book_search,Elinizde roman var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+study_room,Odaları nasıl ayırtabilirim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Hangi gün etkinlikler var?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+digital_access,E-kitaplara nasıl ulaşabilirim?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+membership,Üye olmak ücretli mi?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+membership,Kimler üye olabilir?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+events,Yazar söyleşisi olacak mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Ceza uygulaması nasıl?,Gecikme cezası günlük 1 TL'dir.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+opening_hours,Kütüphane saat kaçta açılıyor?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+borrow_policy,Aynı anda kaç kitap alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+opening_hours,Bugün açık mısınız?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+borrow_policy,Kitapları kaç gün tutabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+opening_hours,Hangi saatlerde hizmet veriyorsunuz?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+book_search,Atatürk hakkında kitap var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+borrow_policy,Kitapları kaç gün tutabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+opening_hours,Kütüphane saat kaçta açılıyor?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+events,Kütüphanede seminer yapılıyor mu?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+opening_hours,Pazar günü açık mı?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+events,Bu ay etkinlik var mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+borrow_policy,Kitapları kaç gün tutabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+opening_hours,Hangi saatlerde hizmet veriyorsunuz?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+study_room,Çalışma alanı var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+opening_hours,Çalışma saatleriniz nedir?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+book_search,Python kitapları var mı?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+opening_hours,Hangi saatlerde hizmet veriyorsunuz?,Kütüphane hafta içi 09:00 - 18:00 saatleri arasında açıktır.
+digital_access,Online kaynaklara erişim var mı?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+digital_access,PDF kitapları nasıl bulurum?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+late_fee,Kitabı geç getirirsem ceza alır mıyım?,Gecikme cezası günlük 1 TL'dir.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+borrow_policy,Kaç kitap ödünç alabilirim?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+membership,Üyelik işlemleri nasıl?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Geç getirince ücret var mı?,Gecikme cezası günlük 1 TL'dir.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Yazar söyleşisi olacak mı?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
+borrow_policy,Kitap ödünç alma süresi ne kadar?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+study_room,Rezervasyon nasıl yapılır?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+late_fee,Gecikme cezası nedir?,Gecikme cezası günlük 1 TL'dir.
+late_fee,Kitap geç teslim edilirse ne olur?,Gecikme cezası günlük 1 TL'dir.
+book_search,Edebiyat kitaplarını nerede bulabilirim?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+study_room,Çalışma odası rezerve edebilir miyim?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+digital_access,Veritabanlarına nasıl girilir?,E-kitap ve veritabanlarına kampüs içi ağdan veya VPN ile erişebilirsiniz.
+membership,Üyelik için ne gerekiyor?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+membership,Kütüphaneye nasıl üye olurum?,Öğrenci kimliğinizle danışma birimine başvurarak ücretsiz üye olabilirsiniz.
+study_room,Grup çalışması odası var mı?,Çalışma odalarını web sitemizden ya da danışmadan rezerve edebilirsiniz.
+borrow_policy,Öğrenciler kaç gün kitap alabilir?,Kullanıcılar 15 gün süreyle 5 kitap ödünç alabilir.
+book_search,Tarih kitapları mevcut mu?,"Evet, ilgili kategoride birçok kitabımız mevcuttur. Katalogdan arama yapabilirsiniz."
+events,Etkinlik takvimi nerede?,Etkinlik takvimi her ay web sitemizde yayınlanmaktadır.
