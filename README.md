@@ -69,13 +69,6 @@ Proje, iki farklı dil modeli (LLM) kullanılarak geliştirilmiştir:
 - Precision, Recall, F1 Score
 - `sklearn.metrics` kütüphanesi kullanıldı.
 
-### Sonuç Tablosu:
-
-| Model              | Precision | Recall | F1 Score |
-|--------------------|-----------|--------|----------|
-| HuggingFace TF-IDF | 0.89      | 0.87   | 0.88     |
-| Doğrudan TF-IDF    | 0.84      | 0.81   | 0.82     |
-
 📝 Detaylı değerlendirme için bkz: `evaluation/huggingface_classification_report.csv`
 
 ## 🔁 Chatbot Akışı
