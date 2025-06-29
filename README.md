@@ -73,8 +73,6 @@ Proje, iki farklı dil modeli (LLM) kullanılarak geliştirilmiştir:
 
 ## 🔁 Chatbot Akışı
 
-![Chatbot Akışı](chatbot_akis_diyagrami.png)
-
 1. Başlangıç
 2. Selamlama kontrolü
 3. Temel soru mu?
